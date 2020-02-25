@@ -29,6 +29,7 @@ def addNum(numList, num):
 
 def fibonacciSequence(value):
     """Returns a list of numbers in the fibonacci sequence up to the given value"""
+
     nums = [1, 2]
     size = 2
     n = nums[size - 1] + nums[size - 2]
