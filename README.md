@@ -1,4 +1,4 @@
-# Lab 7
+# Lab 7 - CYBR 2980
 
 One of my favorite "productive procrastination"  sites is [Project Euler](https://projecteuler.net/archives). The site has a series of math puzzles that require programming to solve. Python is a perfect tool for many of these problems and it is a great way to expand on your thinking about algorithms, coding techniques, and math.
 
@@ -95,8 +95,8 @@ The longest sum of consecutive primes below one-thousand that adds to a prime, c
 Which prime, below one-million, can be written as the sum of the most consecutive primes?
 
 ---
-### Testing your code
+## Testing your code
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
 
-### End of class
-Use Atom Git window to stage changes and push. If you are not done, you will still want to push changes so you can continue to work on this later.
+## End of class
+In Repl.it, you will find the share link to your code. That is what gets submitted to Canvas.
