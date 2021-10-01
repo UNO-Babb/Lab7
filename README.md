@@ -1,8 +1,12 @@
-# Lab 7 - CYBR 2980
+# Lab 7 - CIST 1600
 
 One of my favorite "productive procrastination"  sites is [Project Euler](https://projecteuler.net/archives). The site has a series of math puzzles that require programming to solve. Python is a perfect tool for many of these problems and it is a great way to expand on your thinking about algorithms, coding techniques, and math.
 
 Today we are going to look at several Project Euler problems, specifically thinking about how we could use problem deconstruction techniques to break the large problem into sub problems. Ideally we can use functions from earlier problems in later solutions.
+
+### Your Assignment
+- Write the ***isPrime*** function in the NumberTests and verify that it works.
+- Pick 2-3 of the additional problems to solve using the functions in the NumberTests file. 
 
 ### NumberTests.py
 As you develop solutions, you should populate this file with some of the useful functions. I've started a few functions that might be useful.
