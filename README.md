@@ -6,7 +6,7 @@ Today we are going to look at several Project Euler problems, specifically think
 
 ### Your Assignment
 - Write the ***isPrime*** function in the NumberTests and verify that it works.
-- Pick 2-3 of the additional problems to solve using the functions in the NumberTests file. 
+- Pick 2-3 of the additional problems to solve using the functions in the NumberTests file.
 
 ### NumberTests.py
 As you develop solutions, you should populate this file with some of the useful functions. I've started a few functions that might be useful.
@@ -104,4 +104,7 @@ Which prime, below one-million, can be written as the sum of the most consecutiv
 You may not actually know that your code works until you fully test what you have written. It is often a good idea to get someone else to run your program, they may do something you had not anticipated which could show you a possible flaw or at least a design issue.
 
 ## End of class
-In Repl.it, you will find the share link to your code. That is what gets submitted to Canvas.
+- Add a commit message
+- Commit to GitHub
+- Sync work with Repo
+- Submit your repo link to Canvas
